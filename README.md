@@ -1,4 +1,11 @@
-# Totem
+# Totem (codename)
+ * sci-fi platformer
+ * dungeonovka, co smrdí survivalem
+ * akční gameplay, hodně skákání, uhýbání
+ * proměnlivá herní mechanika
+   * každá planeta má jiné fyzikální zákony, jiné prostředí, jiné emzáky
+   * podle toho se musí měnit i taktika hráče
+
 ## Story
 Intro – cutscene: Archeologové objevují prastaré Májské/Aztécké město uprostřed pralesa, zarostlé liánami. Střih. Čistí liány, uprostřed stojí kamený monolit popsaný neznámými symboly, s vytesaným děsivým obličejem. Střih. Archeologové vytahují s pomocí kladkového systému monolit. Střih. Kamion jede velkou rychlostí po dálnici, doprovázený policejní eskortou. Střih. Monolit ve vakuové komoře na citlivých vahadlech, pět vědců sleduje graf běžící na obrazovkách počítače.
 
@@ -6,7 +13,7 @@ Intro – dialogy: „Wubba lubba, mooc záhadný totem, porušuje fyzikální z
 
 První level – chodíš po labce, mačkáš tlačítka, provádíš experimenty. Uvnitř vakuové komory se něco rozbije, a aby se nemusela další dva týdny vyčerpávat, vezmeš si skafandr a jdeš se na to kouknout. Začneš se v tom šťourat, když najednou — BUM!
 
-Celý monolit se i s kusama labky přemístil na nějakou jinou planetu. Náraz s tebou hodil o zem, roztrhl ti kyslíkovou bombu, ze které ti pomalu uniká plyn. 〈Particle system ♥〉 Rozhlížíš se po troskách: jedinné, co zůstalo netknuté, je monolit, zbytek zařízení laboratoře se rozmlácený válí všude kolem, nic nevypadá, že by fungovalo. 〈Kamera se posune〉 Mezi přístroji leží něco zkrvaveného – je to roztrhaný trup jednoho z tvých kolegů. Zamotá se ti hlava, předkloníš se. 〈Přichází skvělý voice-acting. Plus se může ozvat zvuk zvracení ve skafandru – je to odporné, ale vcelku realistická reakce na situaci.〉
+Celý monolit se i s tebou a kusama labky přemístil na nějakou jinou planetu. Náraz s tebou hodil o zem, roztrhl ti kyslíkovou bombu, ze které ti pomalu uniká plyn. 〈Particle system ♥〉 Rozhlížíš se po troskách: jedinné, co zůstalo netknuté, je monolit, zbytek zařízení laboratoře se rozmlácený válí všude kolem, nic nevypadá, že by fungovalo. 〈Kamera se posune〉 Mezi přístroji leží něco zkrvaveného – je to roztrhaný trup jednoho z tvých kolegů. Zamotá se ti hlava, předkloníš se. 〈Přichází skvělý voice-acting. Plus se může ozvat zvuk zvracení ve skafandru – je to odporné, ale vcelku realistická reakce na situaci.〉
 
 Sebereš se. V rohu obrazovky se ukáže barometr tlakové lahve, který poměrně rychle klesá. 〈Dabing „musím si doplnit kyslík, někde tu určitě budou cisterny se stlačeným vzduchem.“〉 Najdeš cisterny, doplníš si bomby, které ale pořád utíkají. Prohledáváš zbytky laboratoře, ale než najdeš pryskyřici na zalepení díry, musíš se ještě aspoň dvakrát doplnit. Opravíš si bomby a vydáš se na průzkum planety.
 
